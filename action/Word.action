@@ -1,0 +1,5 @@
+string data
+---
+bool succeeded
+---
+string stage
